@@ -1,3 +1,5 @@
+(Our code implements an Outdoor Rental Service, a console-based application that allows users to register, log in, and manage the rental and purchase of outdoor gear. Users can choose from a variety of backpacks for rent, view clothing options for purchase, and explore national parks for their adventures. The application securely handles user credentials with password hashing, maintains a history of rentals and purchases, and prompts users for their shipping addresses. It features a straightforward menu-driven interface, guiding users through renting items, returning them, or making purchases, while providing an overview of the services offered.)
+
 import os
 import hashlib  # Built-in library for password hashing
 
